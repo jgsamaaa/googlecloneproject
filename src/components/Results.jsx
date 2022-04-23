@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Routes() {
+export default function Results() {
   return (
     <div>
-      <h1>Routes</h1>
+      <h1>Results</h1>
     </div>
   );
 }
