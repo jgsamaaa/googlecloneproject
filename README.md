@@ -3,9 +3,11 @@
 Responsive Google clone using an API from https://rapidapi.com/apigeek/api/google-search3/.
 I created this project to be more familiar with ReactJS. You can Search Images, Videos and everyting.
 
+Live Server: https://goggles-search.netlify.app/
+
 ## Home
 
-![Goggles](https://i.ibb.co/yQdYhtq/image.png)
+![Goggles](https://i.ibb.co/c8kGVbB/welcome.png)
 
 ## Search
 
