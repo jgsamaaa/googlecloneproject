@@ -5,7 +5,7 @@ I created this project to be more familiar with ReactJS. You can Search Images, 
 
 ## Home
 
-![App Screenshot](https://via.placeholder.com/468x300?text=googles.png)
+![Goggles](<(https://i.ibb.co/yQdYhtq/image.png)>)
 
 ## Search
 
