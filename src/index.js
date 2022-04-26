@@ -5,11 +5,13 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import './index.css';
 import App from './App';
 
+import { StateContextProvider } from './context/StateContextProdiver';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <StateContextProvider>
     <Router>
       <App />
     </Router>
-  </React.StrictMode>
+  </StateContextProvider>
 );
