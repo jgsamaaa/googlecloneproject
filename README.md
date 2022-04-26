@@ -9,15 +9,15 @@ I created this project to be more familiar with ReactJS. You can Search Images, 
 
 ## Search
 
-![App Screenshot](https://via.placeholder.com/468x300?text=)
+![Search](https://ibb.co/7n5vFZN)
 
 ## Images
 
-![App Screenshot](https://via.placeholder.com/468x300?text=)
+![Images](https://ibb.co/YB9QR7D)
 
-## VIdeos
+## Videos
 
-![App Screenshot](https://via.placeholder.com/468x300?text=)
+![Videos](https://ibb.co/6tjDDST)
 
 ## Installation
 
@@ -63,3 +63,9 @@ Start the server
 - Read the documentation carefully. Wasted hours debugging just to see that my API key was wrong.
 - Learned alot about React-router-dom and pagination.
 - Tailwind CSS is awesome.
+
+## Future Implementation
+
+- Debug and fix some codes.
+- Add Next and Previous page.
+- Change some of the Fonts.
