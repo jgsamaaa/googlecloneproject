@@ -9,15 +9,15 @@ I created this project to be more familiar with ReactJS. You can Search Images, 
 
 ## Search
 
-![Search](https://ibb.co/7n5vFZN)
+![Search](https://i.ibb.co/rxSkJzf/Search.png)
 
 ## Images
 
-![Images](https://ibb.co/YB9QR7D)
+![Images](https://i.ibb.co/HTv4FDN/imagess.png)
 
 ## Videos
 
-![Videos](https://ibb.co/6tjDDST)
+![Videos](https://i.ibb.co/M1FPPHt/videos.png)
 
 ## Installation
 
